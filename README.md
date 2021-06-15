@@ -40,6 +40,8 @@ To evaluate on KDD-CUP using KDD-CUP defense submissions,check
 https://github.com/THUDM/GIAAD,
 and  copy the generated attack package to GIAAD/submission . 
 
+If you have any problems, pls contact zoux18@mails.tsinghua.edu.cn
+
 
 
 
