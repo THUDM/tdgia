@@ -1,7 +1,7 @@
 # TDGIA
 code for 
 
-``TDGIA:Effective Injection Attacks on Graph Neural Networks (KDD research 2021)``
+``TDGIA:Effective Injection Attacks on Graph Neural Networks (KDD 2021, research track)``
 
 
 1: Datasets, 
