@@ -42,7 +42,24 @@ and  copy the generated attack package to GIAAD/submission .
 
 If you have any problems, pls contact zoux18@mails.tsinghua.edu.cn
 
-
+<pre>
+@inproceedings{10.1145/3447548.3467314,
+author = {Zou, Xu and Zheng, Qinkai and Dong, Yuxiao and Guan, Xinyu and Kharlamov, Evgeny and Lu, Jialiang and Tang, Jie},
+title = {TDGIA: Effective Injection Attacks on Graph Neural Networks},
+year = {2021},
+isbn = {9781450383325},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3447548.3467314},
+doi = {10.1145/3447548.3467314},
+booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining},
+pages = {2461–2471},
+numpages = {11},
+keywords = {graph mining, network mining, adversarial machine learning, graph neural networks, graph injection attack},
+location = {Virtual Event, Singapore},
+series = {KDD '21}
+}
+</pre>
 
 
 
